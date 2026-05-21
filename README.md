@@ -1,2 +1,2 @@
 # SapuIjuek
-Aditya Pramana Putra / Dimas Ariyanto Putra
+"Disuruh main ke taman malah berharap sama yang sebatas teman"
