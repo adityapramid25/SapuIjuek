@@ -1,0 +1,6 @@
+File ini untuk menjelaskan projek dan pembagian awal tugas masing-masing kolaborator
+tugas koordinator -- memakan gaji
+  tugas kolaborator -- mengerjakan website
+
+apakah kolaborator sudah setuju dengan pembagian ini? (harus setuju)
+jawab disini:
